@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=SPI_CLK Pin=C1-2
+Added Pin To Net: NetName=SPI_DATA Pin=C3-2
+Added Pin To Net: NetName=SPI_CLK Pin=R1-2
+Added Pin To Net: NetName=SPI_DATA Pin=R3-2
+Added Pin To Net: NetName=SPI_CLK Pin=S1-B1
+Added Pin To Net: NetName=SPI_DATA Pin=S1-B2

@@ -1,0 +1,23 @@
+Altium Designer Pick and Place Locations
+C:\Users\Simen\OneDrive\Documents\NTNU\V2021\PillCam\Master\Altium\WCE_NanEyeC_board\Project Outputs for WCE_NanEyeC_board\Pick Place for WCE_NanEyeC_board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/12/21
+Time:       22:00
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment        Layer    Footprint             Center-X(mm) Center-Y(mm) Rotation Description                                                        
+S1         NanEyeC        TopLayer NanEyeC               12.2500      5.0000       0        "Camera module NanEyeC from AMS. The Part will be delivered by us" 
+R4         10k            TopLayer RESC1608X50X30ML20T20 5.5000       6.5000       270      ""                                                                 
+R3         24R            TopLayer RESC1608X50X30ML20T20 8.2500       5.7500       0        ""                                                                 
+R2         10k            TopLayer RESC1608X50X30ML20T20 5.5000       3.5000       90       ""                                                                 
+R1         24R            TopLayer RESC1608X50X30ML20T20 8.2500       4.2500       0        ""                                                                 
+J2         TSW-102-07-G-S TopLayer FP-TSW-102-07-G-S-MFG 17.2500      5.0000       270      "CONN HEADER VERT 2POS 2.54MM"                                     
+J1         TSW-102-07-G-S TopLayer FP-TSW-102-07-G-S-MFG 2.7500       5.0000       270      "CONN HEADER VERT 2POS 2.54MM"                                     
+C3         15pF           TopLayer CAPC1608X90X35NL15T15 10.7500      6.5000       270      ""                                                                 
+C2         470nF          TopLayer CAPC1608X90X35NL15T15 13.7500      5.0000       270      ""                                                                 
+C1         15pF           TopLayer CAPC1608X90X35NL15T15 10.7500      3.5000       90       ""                                                                 

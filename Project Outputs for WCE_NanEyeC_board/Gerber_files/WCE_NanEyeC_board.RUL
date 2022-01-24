@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\Simen\OneDrive\Documents\NTNU\V2021\PillCam\Master\Altium\WCE_NanEyeC_board\WCE_NanEyeC_board.PcbDoc
+RuleKind=Clearance|RuleName=NanEyeC_1|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

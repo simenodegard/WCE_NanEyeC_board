@@ -1,0 +1,30 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [WCE_NanEyeC_board.PrjPcb]
+   Generated File[WCE_NanEyeC_board.GTO]
+   Generated File[WCE_NanEyeC_board.GTP]
+   Generated File[WCE_NanEyeC_board.GTS]
+   Generated File[WCE_NanEyeC_board.GTL]
+   Generated File[WCE_NanEyeC_board.GBL]
+   Generated File[WCE_NanEyeC_board.GBS]
+   Generated File[WCE_NanEyeC_board.GM1]
+   Generated File[WCE_NanEyeC_board.GM2]
+   Generated File[WCE_NanEyeC_board.GM3]
+   Generated File[WCE_NanEyeC_board.GM5]
+   Generated File[WCE_NanEyeC_board.GM13]
+   Generated File[WCE_NanEyeC_board.GM15]
+   Generated File[WCE_NanEyeC_board.GM16]
+   Generated File[WCE_NanEyeC_board.GKO]
+   Generated File[WCE_NanEyeC_board.GPT]
+   Generated File[WCE_NanEyeC_board.GPB]
+   Generated File[WCE_NanEyeC_board.GD1]
+   Generated File[WCE_NanEyeC_board.GG1]
+   Generated File[WCE_NanEyeC_board.RUL]
+   Generated File[WCE_NanEyeC_board.EXTREP]
+   Generated File[WCE_NanEyeC_board.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 9:59:04 PM On 12/9/2021

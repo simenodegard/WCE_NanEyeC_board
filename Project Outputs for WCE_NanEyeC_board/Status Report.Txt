@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [WCE_NanEyeC_board.PrjPcb]
+   Generated File[WCE_NanEyeC_board.TXT]
+   Generated File[WCE_NanEyeC_board.LDP]
+   Generated File[WCE_NanEyeC_board.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:00:40 PM On 12/9/2021
